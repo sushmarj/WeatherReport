@@ -2,7 +2,7 @@
 
 ###  `React Application`
 
-Created s simple application in react to find the weather report that include location, temperature, humidity and conditions and display particular data with help of CSS and BootStrap and display only the selected data in the page.
+Created a simple application in react to find the weather report that include location, temperature, humidity and conditions and display particular data with help of CSS and BootStrap and display only the selected data in the page.
 
 
 ## Installation and Launch

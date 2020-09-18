@@ -25,6 +25,7 @@ You can see any errors by inspect in the console .
 ### WebPage Screenshot
 Screenshot of the User Interface.
 
+![w1-ANIMATION](https://user-images.githubusercontent.com/52202834/93576087-1338a700-f9b8-11ea-9c23-9544f5aec4e4.gif)
 
 
 ### Skills used for this project
